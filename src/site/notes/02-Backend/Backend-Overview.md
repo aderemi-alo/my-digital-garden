@@ -18,3 +18,6 @@ MVP focus: Lighting and effects vendors.
 - Asset availability checks
 - Offline-first sync
 - Modular codebase for future migration to micro-services
+---
+### Table of Contents
+1. [[02-Backend/API/Endpoints\|Endpoints]]
